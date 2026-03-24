@@ -1,0 +1,5 @@
+# Pybricks development tools (includes pybricks, bleak, mpy-cross, pyusb, hidapi, etc.)
+pybricksdev>=2.3.0
+
+# Type stubs for IDE IntelliSense (EV3 Pybricks v2.0 API)
+pybricks-stubs>=2.0.0
